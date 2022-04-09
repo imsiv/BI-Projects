@@ -1,3 +1,3 @@
 # BI-Projects
-Check this repository for all my Power BI and excel dashboards and reports
+Repository of all my Power BI, Excel dashboards and reports.
 All the files are in PBIx and pdf formate both.
